@@ -8,7 +8,7 @@
 
 ### 三月
 
-* 十个提高你写作效率的技巧【译】
+* [十个提高你写作效率的技巧【译】](https://github.com/daihere1993/ThoughtRam/issues/1)
 * 彻底理解 JS Event Loop（浏览器环境）
 
 ### 四月
