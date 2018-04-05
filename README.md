@@ -9,8 +9,8 @@
 ### 三月
 
 * [十个提高你写作效率的技巧【译】](https://github.com/daihere1993/ThoughtRam/issues/1)
-* 彻底理解 JS Event Loop（浏览器环境）
+* [彻底理解 JS Event Loop（浏览器环境）](https://github.com/daihere1993/ThoughtRam/issues/2)
 
 ### 四月
 
-* 谈谈 Angular 的 Change Detection 机制 
+* [谈谈 Angular 的 Change Detection 机制](https://github.com/daihere1993/ThoughtRam/issues/3)
