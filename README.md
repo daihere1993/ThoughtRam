@@ -13,3 +13,4 @@
 ### 四月
 
 * [谈谈 Angular 的 Change Detection 机制](https://github.com/daihere1993/ThoughtRam/issues/3)
+* [谈谈 WEB 前端中的 MVC 和 MVVM](https://github.com/daihere1993/ThoughtRam/issues/4)
