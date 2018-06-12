@@ -14,3 +14,7 @@
 
 * [谈谈 Angular 的 Change Detection 机制](https://github.com/daihere1993/ThoughtRam/issues/3)
 * [深入理解 MVC 中的 M 与 C](https://github.com/daihere1993/ThoughtRam/issues/4)
+
+### 五月
+
+* [离职后，对项目的记录、总结](https://github.com/daihere1993/ThoughtRam/issues/5)
