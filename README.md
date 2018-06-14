@@ -21,4 +21,4 @@
 
 ### 六月
 
-* [【Javascript基础】原型链](https://github.com/daihere1993/ThoughtRam/issues/6)
+* [【Javascript 基础】原型链](https://github.com/daihere1993/ThoughtRam/issues/6)
