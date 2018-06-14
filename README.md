@@ -18,3 +18,7 @@
 ### 五月
 
 * [离职后，对项目的记录、总结](https://github.com/daihere1993/ThoughtRam/issues/5)
+
+### 六月
+
+* [【Javascript基础】原型链](https://github.com/daihere1993/ThoughtRam/issues/6)
