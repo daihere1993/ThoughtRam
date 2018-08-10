@@ -22,3 +22,7 @@
 ### 六月
 
 * [【Javascript 基础】原型链](https://github.com/daihere1993/ThoughtRam/issues/6)
+
+### 八月
+
+* [BaconJS 初探](https://github.com/daihere1993/ThoughtRam/issues/7)
