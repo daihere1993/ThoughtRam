@@ -26,3 +26,7 @@
 ### 八月
 
 * [BaconJS 初探](https://github.com/daihere1993/ThoughtRam/issues/7)
+
+### 九月
+
+* [关于单元测试](https://github.com/daihere1993/ThoughtRam/issues/8)
