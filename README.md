@@ -3,7 +3,7 @@
 > 包含文章翻译、技术博文、生活和工作的感悟。
 
 ## 2020 年
-* [阅读笔记】《编码-隐匿在计算机软件背后的语言》](https://github.com/daihere1993/ThoughtRam/issues/10)
+* [【阅读笔记】《编码-隐匿在计算机软件背后的语言》](https://github.com/daihere1993/ThoughtRam/issues/10)
 
 ## 2018 年
 * [十个提高你写作效率的技巧【译】](https://github.com/daihere1993/ThoughtRam/issues/1)
